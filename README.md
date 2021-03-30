@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @rishika-sharma
+- 👀 I’m interested in Coding ~ Web Development , Game Development , App Development
+- 🌱 I’m currently learning Website Development
+- 📫 How to reach me : rishika.abss@gmail.com
