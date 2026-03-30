@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @rishika-sharma
-- 👀 I’m interested in Coding ~ Web Development, App Development
-- 🌱 I’m currently learning Website Development
-- 📫 How to reach me : rishika.abss@gmail.com
+👋 Hi, I’m Rishika Sharma
+
+- 💻 Building strong programming fundamentals  
+- 🧠 Interested in problem-solving and logical thinking  
+- 🤖 Exploring AI/ML  
+- 📫 Reach me at: rishika.abss@gmail.com
